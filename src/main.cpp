@@ -10,6 +10,10 @@ void setup() {
   Serial.println("Aether Collector: System Initialized (Arduino Uno Prototype)");
 }
 
+
+
+
+
 void loop() {
   // Включаем светодиод
   digitalWrite(LED_BUILTIN, HIGH);
